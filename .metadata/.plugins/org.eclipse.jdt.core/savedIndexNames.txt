@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Antonio\NelioAlves\dsmeta\.metadata\.plugins\org.eclipse.jdt.core
+2850911293.index
+2729984199.index
+1865797976.index
