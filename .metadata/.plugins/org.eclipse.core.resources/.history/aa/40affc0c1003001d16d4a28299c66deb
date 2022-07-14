@@ -1,0 +1,14 @@
+package com.antonio.dsmeta.entities;
+
+import java.util.Date;
+
+public class Sale {
+	
+	private Long id;
+	private String sellerName;
+	private Integer visited;
+	private String deals;
+	private String amount;
+	private Date date;
+
+}

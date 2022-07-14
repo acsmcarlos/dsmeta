@@ -1,0 +1,5 @@
+package com.antonio.dsmeta.entities;
+
+public class Sale {
+
+}

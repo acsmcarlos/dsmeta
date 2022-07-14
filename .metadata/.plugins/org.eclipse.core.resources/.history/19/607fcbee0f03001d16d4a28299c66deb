@@ -1,0 +1,12 @@
+package com.antonio.dsmeta.entities;
+
+public class Sale {
+	
+	private Long id;
+	private String seller_name;
+	private Integer visited;
+	deals
+	amount
+	date
+
+}

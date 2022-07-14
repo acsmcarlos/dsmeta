@@ -1,0 +1,17 @@
+package com.antonio.dsmeta.entities;
+
+import java.time.LocalDate;
+
+public class Sale {
+	
+	private Long id;
+	private String sellerName;  //nome vendedor
+	private Integer visited;    //nº visita
+	private String deals;	    //valor venda
+	private Double amount;	    //quantia vendida
+	private LocalDate date;     //data
+
+	public Sale() {	} // construtor vazio
+	
+	
+}

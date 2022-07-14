@@ -1,0 +1,16 @@
+package com.antonio.dsmeta.entities;
+
+import java.util.Date;
+
+import javax.persistence.Id;
+
+public class Sale {
+	
+	private Long id;
+	private String sellerName;	//vendedor
+	private Integer visited;	//visita
+	private String deals;		//venda
+	private String amount;		//quantia vendida
+	private Date date; 			//data
+
+}
