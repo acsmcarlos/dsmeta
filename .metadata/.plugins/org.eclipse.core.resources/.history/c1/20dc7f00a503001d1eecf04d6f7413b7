@@ -1,0 +1,5 @@
+package com.antonio.dsmeta.controllers;
+
+public class SaleController {
+
+}

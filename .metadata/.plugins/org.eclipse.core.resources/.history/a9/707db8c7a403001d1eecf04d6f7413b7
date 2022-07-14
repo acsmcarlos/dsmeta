@@ -1,0 +1,25 @@
+package com.antonio.dsmeta.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.antonio.dsmeta.entities.Sale;
+import com.antonio.dsmeta.repositories.SaleRepository;
+
+// Componente responsável por fazer operaçoes de negócios, buscar vendas no banco de dados
+@Service
+public class SaleService {
+	
+	@Autowired
+	private SaleRepository repository;
+
+	// buscar uma lista de vendas
+	public List<Sale> findSales() {
+		
+		return null;
+		
+	}
+	
+}

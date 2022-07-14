@@ -1,0 +1,7 @@
+package com.antonio.dsmeta.repositories;
+
+public interface SaleRepository {
+	
+	Jpar
+
+}

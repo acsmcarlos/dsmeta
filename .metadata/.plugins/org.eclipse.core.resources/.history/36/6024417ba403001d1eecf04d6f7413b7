@@ -1,0 +1,18 @@
+package com.antonio.dsmeta.services;
+
+import java.util.List;
+
+import com.antonio.dsmeta.entities.Sale;
+import com.antonio.dsmeta.repositories.SaleRepository;
+
+// Componente responsável por fazer operaçoes de negócios, buscar vendas no banco de dados
+public class SaleService {
+	
+	private SaleRepository repository;
+
+	// buscar uma lista de vendas
+	public List<Sale> findSales() {
+		
+	}
+	
+}

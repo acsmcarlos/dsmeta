@@ -1,0 +1,8 @@
+package com.antonio.dsmeta.repositories;
+
+// Sistema responsável por acessar o banco de dados, buscar
+public interface SaleRepository {
+	
+	
+
+}

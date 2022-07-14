@@ -1,0 +1,14 @@
+package com.antonio.dsmeta.controllers;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+// Classe que disponibiliza os endpoints onde p frontend vai acessar o backend
+@RestController
+@RequestMapping(value = "/sales")
+public class SaleController {
+	
+	//método que disponibiliza as vendas para o frontend
+	
+
+}

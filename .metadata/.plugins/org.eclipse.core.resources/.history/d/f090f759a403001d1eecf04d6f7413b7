@@ -1,0 +1,10 @@
+package com.antonio.dsmeta.services;
+
+// Componente responsável por fazer operaçoes de negócios, buscar vendas no banco de dados
+public class SaleService {
+
+	public findSales() {
+		
+	}
+	
+}

@@ -1,0 +1,8 @@
+package com.antonio.dsmeta.controllers;
+
+// Classe que disponibiliza os endpoints onde p frontend vai acessar o backend
+public class SaleController {
+	
+	
+
+}
