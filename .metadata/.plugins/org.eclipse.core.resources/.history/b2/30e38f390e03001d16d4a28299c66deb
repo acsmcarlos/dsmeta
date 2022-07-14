@@ -1,0 +1,5 @@
+package com.antonio.dsmeta.config;
+
+public class SecurityConfig {
+
+}
