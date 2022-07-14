@@ -1165,3 +1165,72 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.launchbar.core 2 0 2022-07-14 15:27:42.182
 !MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:34.885
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:34.892
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:34.898
+!MESSAGE buffering callback sts4.classpath.bnnpWyWU backend false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:34.899
+!MESSAGE executing callback sts4.classpath.bnnpWyWU 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:34.966
+!MESSAGE executing callback sts4.classpath.bnnpWyWU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:40.741
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:40.748
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:40.753
+!MESSAGE buffering callback sts4.classpath.bnnpWyWU backend false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:40.754
+!MESSAGE executing callback sts4.classpath.bnnpWyWU 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:40.781
+!MESSAGE executing callback sts4.classpath.bnnpWyWU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:46.599
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:46.605
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:46.611
+!MESSAGE buffering callback sts4.classpath.bnnpWyWU backend false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:46.612
+!MESSAGE executing callback sts4.classpath.bnnpWyWU 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-14 19:52:46.637
+!MESSAGE executing callback sts4.classpath.bnnpWyWU SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2022-07-14 20:10:40.351
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-07-14 20:10:40.351
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13261fbe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1b35ce8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-07-14 20:25:54.732
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
