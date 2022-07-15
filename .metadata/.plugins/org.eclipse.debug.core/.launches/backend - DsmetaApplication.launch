@@ -7,7 +7,7 @@
         <listEntry value="1"/>
     </listAttribute>
     <mapAttribute key="org.eclipse.debug.core.environmentVariables">
-        <mapEntry key="TWILIO_KEY" value="25eaba0da9f5f33a7e5d7e87363e7950"/>
+        <mapEntry key="TWILIO_KEY" value="ebaab171adb3e985a7f83d3da6dc329e"/>
         <mapEntry key="TWILIO_PHONE_FROM" value="+19707143713"/>
         <mapEntry key="TWILIO_PHONE_TO" value="+5534984323887"/>
         <mapEntry key="TWILIO_SID" value="ACb12a04a5d479680b39c15fd879b2b077"/>
